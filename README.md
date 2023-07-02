@@ -4,10 +4,10 @@
 
 * **Person or organization developing model**: Kylie Loudermilk, `kylieloudermilk@gwmail.gwu.edu`
 * **Model date**: June, 2023
-* **Model version**: 3.0 TODO
+* **Model version**: 3.0
 
 ### Intended Use
-* **Primary intended uses**: This model is an *example* use case for determining customers who will receive high priced mortgage based on Home Mortgage Disclosure Act (HMDA) data. TODO
+* **Primary intended uses**: This model is an *example* use case for determining customers who will receive high priced mortgage based on Home Mortgage Disclosure Act (HMDA) data.
 * **Primary intended users**: Students in GWU DNSC 6290 Responsible Machine Learning.
 * **Out-of-scope use cases**: Any use beyond an educational example is out-of-scope.
 
@@ -71,9 +71,9 @@ XGB2Classifier('n_estimators': 80,
 ```
 ### Quantitative Analysis
 
-* **Training AUC**: TODO
+* **Training AUC**: 0.7799
 * **Validation AUC**: 0.7826
-* **Test AUC**: TODO 
+* **Test AUC (Fold=0)**: 0.836 
 
 
 #### Correlation Heatmap
