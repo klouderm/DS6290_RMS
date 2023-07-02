@@ -87,13 +87,13 @@ XGB2Classifier('n_estimators': 80,
 
 
 #### Global Feature Importance
-* **From final remediated of XGB2 model**
+* **From final remediated XGB2 model**
 * **Taken from assign_5_kylieLoudermilk.ipynb**
 ![image](https://github.com/klouderm/DS6290_RMS/assets/83142814/57dd1a8b-8775-417f-948c-2257ea12b387)
 
 
 #### Partial Dependence
-* **Columns for the final remediated version of XGB2 model**
+* **Columns used in the final remediated XGB2 model**
 * **Taken from assign_5_kylieLoudermilk.ipynb**
 <img width="832" alt="image" src="https://github.com/klouderm/DS6290_RMS/assets/83142814/365605be-253f-4565-a800-9eabae39a004">
 
@@ -104,7 +104,7 @@ XGB2Classifier('n_estimators': 80,
 
 
 #### Variable Importance from Black Box Model
-* **Security testing shows a bad actor may be able to discover these variables are important to the model**
+* **Security testing shows a bad actor may be able to discover that these variables are important to the model**
 * **Taken from assign_4_kylieLoudermilk.ipynb**
 
 #### Ethical Considerations
