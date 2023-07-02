@@ -61,7 +61,7 @@
 * **Type of model**: XGB2 Classifier
 * **Software used to implement the model**: Python, PiML
 * **Version of the modeling software**: PiML V0.5.0
-* **Hyperparameters or other settings of your model**: 
+* **Hyperparameters or model**: 
 ```
 XGB2Classifier('n_estimators': 80,
                'max_bin': 20,
