@@ -73,7 +73,7 @@ XGB2Classifier('n_estimators': 80,
 
 * **Training AUC**: 0.7799
 * **Validation AUC**: 0.7826
-* **Test AUC (Fold=0)**: 0.836 
+* **Test AUC**: 0.827
 
 
 #### Correlation Heatmap
