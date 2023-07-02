@@ -106,7 +106,7 @@ XGB2Classifier('n_estimators': 80,
 #### Variable Importance from Black Box Model
 * **Security testing shows a bad actor may be able to discover that these variables are important to the model**
 * **Taken from assign_4_kylieLoudermilk.ipynb**
-<img width="416" alt="image" src="https://github.com/klouderm/DS6290_RMS/assets/83142814/498de5d0-28f1-42e9-8fb9-702e69811185">
+<img width="570" alt="image" src="https://github.com/klouderm/DS6290_RMS/assets/83142814/04a884ba-bda7-43ac-b19d-d460b1c04352">
 
 
 #### Ethical Considerations
